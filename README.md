@@ -1,2 +1,2 @@
 # RaspberryPiMailCounter
-Raspberry Pi Mai lCounter
+Raspberry Pi Mail Counter
